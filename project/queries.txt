@@ -1,0 +1,27 @@
+customer : 
+INSERT INTO  customer (CID,CNAME,CITY)
+SELECT DISTINCT CID,CNAME,CITY 
+from dataset
+
+product : 
+INSERT INTO `product`(`PID`, `PName`, `Pprice`)
+SELECT  PID , PNAME, PUPRICE
+FROM `dataset`
+GROUP BY PID
+
+order item : 
+INSERT INTO `order_item`(`PID`, `PQty`, `Pprice`, `OID`) 
+SELECT PID,`PQTY`,PUPRICE,OID
+FROM `dataset`
+
+supplier:
+INSERT INTO `supplier`(`SID`, `CompName`, `CompContact`, `CompPhone`, `PID`) 
+SELECT SUPID , CAMPNAME, CAMPCONTACT,CAMPPHONE , PID
+FROM `dataset`
+GROUP BY SUPID
+
+order:
+INSERT INTO `order`(`OID`, `Order_Tamount`, `number`, `ODate`, `CID`) 
+SELECT OID , OTAMT , ONUM ,STR_TO_DATE(`ODATE`, '%m/%d/%Y') ,CID
+FROM `dataset`
+GROUP BY OID

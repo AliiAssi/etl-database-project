@@ -1,0 +1,243 @@
+CID,CNAME,CITY,OID,ODATE,ONUM,OTAMT,PID,PNAME,PUPRICE,PQTY,SUPID,CAMPNAME,CAMPCONTACT,CAMPPHONE
+1,Maria-Anders,Berlin,1,7/4/2012,542378,440,11,Queso Cabrales,16.8,12,5,Cooperativa de Quesos 'Las Cabras',Antonio del Valle Saavedra,(98) 598 76 54
+1,Maria-Anders,Berlin,1,7/4/2012,542378,440,42,Singaporean Hokkien Fried Mee,11.2,10,20,Leka Trading,Chandra Leka,555-8787
+1,Maria-Anders,Berlin,1,7/4/2012,542378,440,72,Mozzarella di Giovanni,27.8,5,14,Formaggi Fortini s.r.l.,Elio Rossi,(0544) 60323
+2,Ana-Trujillo,México D.F.,2,7/5/2012,542379,1863.4,14,Tofu,18.6,9,6,Mayumi's,Mayumi Ohno,(06) 431-7877
+2,Ana-Trujillo,México D.F.,2,7/5/2012,542379,1863.4,51,Manjimup Dried Apples,42.4,40,24,G'day Mate,Wendy Mackenzie,(02) 555-5914
+3,Antonio-Moreno,México D.F.,3,7/8/2012,542380,1813,41,Jack's New England Clam Chowder,7.7,10,19,New England Seafood Cannery,Robb Merchant,(617) 555-3267
+3,Antonio-Moreno,México D.F.,3,7/8/2012,542380,1813,51,Manjimup Dried Apples,42.4,35,24,G'day Mate,Wendy Mackenzie,(02) 555-5914
+3,Antonio-Moreno,México D.F.,3,7/8/2012,542380,1813,65,Louisiana Fiery Hot Pepper Sauce,16.8,15,2,New Orleans Cajun Delights,Shelley Burke,(100) 555-4822
+4,Thomas-Hardy,London,4,7/8/2012,542381,670.8,22,Gustaf's Knäckebröd,16.8,6,9,PB Knäckebröd AB,Lars Peterson,031-987 65 43
+4,Thomas-Hardy,London,4,7/8/2012,542381,670.8,57,Ravioli Angelo,15.6,15,26,Pasta Buttini s.r.l.,Giovanni Giudici,(089) 6547665
+4,Thomas-Hardy,London,4,7/8/2012,542381,670.8,65,Louisiana Fiery Hot Pepper Sauce,16.8,20,2,New Orleans Cajun Delights,Shelley Burke,(100) 555-4822
+5,Christina-Berglund,Luleå,5,7/9/2012,542382,3730,20,Sir Rodney's Marmalade,64.8,40,8,Specialty Biscuits Ltd.,Peter Wilson,(161) 555-4448
+5,Christina-Berglund,Luleå,5,7/9/2012,542382,3730,33,Geitost,2,25,15,Norske Meierier,Beate Vileid,(0)2-953010
+5,Christina-Berglund,Luleå,5,7/9/2012,542382,3730,60,Camembert Pierrot,27.2,40,28,Gai pâturage,Eliane Noz,38.76.98.06
+6,Hanna-Moos,Mannheim,6,7/10/2012,542383,1444.8,31,Gorgonzola Telino,10,20,14,Formaggi Fortini s.r.l.,Elio Rossi,(0544) 60323
+6,Hanna-Moos,Mannheim,6,7/10/2012,542383,1444.8,39,Chartreuse verte,14.4,42,18,Aux joyeux ecclésiastiques,Guylène Nodier,(1) 03.83.00.68
+6,Hanna-Moos,Mannheim,6,7/10/2012,542383,1444.8,49,Maxilaku,16,40,23,Karkki Oy,Anne Heikkonen,(953) 10956
+7,Frédérique-Citeaux,Strasbourg,7,7/11/2012,542384,625.2,24,Guaraná Fantástica,3.6,15,10,Refrescos Americanas LTDA,Carlos Diaz,(11) 555 4640
+7,Frédérique-Citeaux,Strasbourg,7,7/11/2012,542384,625.2,55,Pâté chinois,19.2,21,25,Ma Maison,Jean-Guy Lauzon,(514) 555-9022
+7,Frédérique-Citeaux,Strasbourg,7,7/11/2012,542384,625.2,74,Longlife Tofu,8,21,4,Tokyo Traders,Yoshi Nagase,(03) 3555-5011
+8,Martín-Sommer,Madrid,8,7/12/2012,542385,2490.5,2,Chang,15.2,20,1,Exotic Liquids,Charlotte Cooper,(171) 555-2222
+8,Martín-Sommer,Madrid,8,7/12/2012,542385,2490.5,16,Pavlova,13.9,35,7,Pavlova Ltd.,Ian Devling,(03) 444-2343
+8,Martín-Sommer,Madrid,8,7/12/2012,542385,2490.5,36,Inlagd Sill,15.2,25,17,Svensk Sjöföda AB,Michael Björn,08-123 45 67
+8,Martín-Sommer,Madrid,8,7/12/2012,542385,2490.5,59,Raclette Courdavault,44,30,28,Gai pâturage,Eliane Noz,38.76.98.06
+9,Laurence-Lebihan,Marseille,9,7/15/2012,542386,517.8,53,Perth Pasties,26.2,15,24,Gday Mate,Wendy Mackenzie,(02) 555-5914
+9,Laurence-Lebihan,Marseille,9,7/15/2012,542386,517.8,77,Original Frankfurter grüne Soße,10.4,12,12,Plutzer Lebensmittelgroßmärkte AG,Martin Bein,(069) 992755
+10,Elizabeth-Lincoln,Tsawassen,10,7/16/2012,542387,1119.9,27,Schoggi Schokolade,35.1,25,11,Heli Süßwaren GmbH & Co. KG,Petra Winkler,(010) 9984510
+10,Elizabeth-Lincoln,Tsawassen,10,7/16/2012,542387,1119.9,39,Chartreuse verte,14.4,6,18,Aux joyeux ecclésiastiques,Guylène Nodier,(1) 03.83.00.68
+10,Elizabeth-Lincoln,Tsawassen,10,7/16/2012,542387,1119.9,77,Original Frankfurter grüne Soße,10.4,15,12,Plutzer Lebensmittelgroßmärkte AG,Martin Bein,(069) 992755
+11,Victoria-Ashworth,London,11,7/17/2012,542388,2018.6,2,Chang,15.2,50,1,Exotic Liquids,Charlotte Cooper,(171) 555-2222
+11,Victoria-Ashworth,London,11,7/17/2012,542388,2018.6,5,Chef Anton's Gumbo Mix,17,65,2,New Orleans Cajun Delights,Shelley Burke,(100) 555-4822
+11,Victoria-Ashworth,London,11,7/17/2012,542388,2018.6,32,Mascarpone Fabioli,25.6,6,14,Formaggi Fortini s.r.l.,Elio Rossi,(0544) 60323
+12,Patricio-Simpson,Buenos Aires,12,7/18/2012,542389,100.8,21,Sir Rodney's Scones,8,10,8,Specialty Biscuits Ltd.,Peter Wilson,(161) 555-4448
+12,Patricio-Simpson,Buenos Aires,12,7/18/2012,542389,100.8,37,Gravad lax,20.8,1,17,Svensk Sjöföda AB,Michael Björn,08-123 45 67
+13,Francisco-Chang,México D.F.,13,7/19/2012,542390,1746.2,41,Jack's New England Clam Chowder,7.7,16,19,New England Seafood Cannery,Robb Merchant,(617) 555-3267
+13,Francisco-Chang,México D.F.,13,7/19/2012,542390,1746.2,57,Ravioli Angelo,15.6,50,26,Pasta Buttini s.r.l.,Giovanni Giudici,(089) 6547665
+13,Francisco-Chang,México D.F.,13,7/19/2012,542390,1746.2,62,Tarte au sucre,39.4,15,29,Forêts d'érables,Chantal Goulet,(514) 555-2955
+13,Francisco-Chang,México D.F.,13,7/19/2012,542390,1746.2,70,Outback Lager,12,21,7,Pavlova Ltd.,Ian Devling,(03) 444-2343
+14,Yang-Wang,Bern,14,7/19/2012,542391,448,21,Sir Rodney's Scones,8,20,8,Specialty Biscuits Ltd.,Peter Wilson,(161) 555-4448
+14,Yang-Wang,Bern,14,7/19/2012,542391,448,35,Steeleye Stout,14.4,20,16,Bigfoot Breweries,Cheryl Saylor,(503) 555-9931
+15,Pedro-Afonso,Sao Paulo,15,7/22/2012,542392,624.8,5,Chef Anton's Gumbo Mix,17,12,2,New Orleans Cajun Delights,Shelley Burke,(100) 555-4822
+15,Pedro-Afonso,Sao Paulo,15,7/22/2012,542392,624.8,7,Uncle Bob's Organic Dried Pears,24,15,3,Grandma Kelly's Homestead,Regina Murphy,(313) 555-5735
+15,Pedro-Afonso,Sao Paulo,15,7/22/2012,542392,624.8,56,Gnocchi di nonna Alice,30.4,2,26,Pasta Buttini s.r.l.,Giovanni Giudici,(089) 6547665
+16,Elizabeth-Brown,London,16,7/23/2012,542393,2464.8,16,Pavlova,13.9,60,7,Pavlova Ltd.,Ian Devling,(03) 444-2343
+16,Elizabeth-Brown,London,16,7/23/2012,542393,2464.8,24,Guaraná Fantástica,3.6,28,10,Refrescos Americanas LTDA,Carlos Diaz,(11) 555 4640
+16,Elizabeth-Brown,London,16,7/23/2012,542393,2464.8,30,Nord-Ost Matjeshering,20.7,60,13,Nord-Ost-Fisch Handelsgesellschaft mbH,Sven Petersen,(04721) 8713
+16,Elizabeth-Brown,London,16,7/23/2012,542393,2464.8,74,Longlife Tofu,8,36,4,Tokyo Traders,Yoshi Nagase,(03) 3555-5011
+17,Sven-Ottlieb,Aachen,17,7/24/2012,542394,724.5,2,Chang,15.2,35,1,Exotic Liquids,Charlotte Cooper,(171) 555-2222
+17,Sven-Ottlieb,Aachen,17,7/24/2012,542394,724.5,41,Jack's New England Clam Chowder,7.7,25,19,New England Seafood Cannery,Robb Merchant,(617) 555-3267
+18,Janine-Labrune,Nantes,18,7/25/2012,542395,1176,17,Alice Mutton,31.2,30,7,Pavlova Ltd.,Ian Devling,(03) 444-2343
+18,Janine-Labrune,Nantes,18,7/25/2012,542395,1176,70,Outback Lager,12,20,7,Pavlova Ltd.,Ian Devling,(03) 444-2343
+19,Ann-Devon,London,19,7/26/2012,542396,364.8,12,Queso Manchego La Pastora,30.4,12,5,Cooperativa de Quesos 'Las Cabras',Antonio del Valle Saavedra,(98) 598 76 54
+20,Roland-Mendel,Graz,20,7/29/2012,542397,4031,40,Boston Crab Meat,14.7,50,19,New England Seafood Cannery,Robb Merchant,(617) 555-3267
+20,Roland-Mendel,Graz,20,7/29/2012,542397,4031,59,Raclette Courdavault,44,70,28,Gai pâturage,Eliane Noz,38.76.98.06
+20,Roland-Mendel,Graz,20,7/29/2012,542397,4031,76,Lakkalikööri,14.4,15,23,Karkki Oy,Anne Heikkonen,(953) 10956
+21,Aria-Cruz,Sao Paulo,21,7/30/2012,542398,1101.2,29,Thüringer Rostbratwurst,99,10,12,Plutzer Lebensmittelgroßmärkte AG,Martin Bein,(069) 992755
+21,Aria-Cruz,Sao Paulo,21,7/30/2012,542398,1101.2,72,Mozzarella di Giovanni,27.8,4,14,Formaggi Fortini s.r.l.,Elio Rossi,(0544) 60323
+22,Diego-Roel,Madrid,22,7/31/2012,542399,676,33,Geitost,2,60,15,Norske Meierier,Beate Vileid,(0)2-953010
+22,Diego-Roel,Madrid,22,7/31/2012,542399,676,72,Mozzarella di Giovanni,27.8,20,14,Formaggi Fortini s.r.l.,Elio Rossi,(0544) 60323
+23,Martine-Rancé,Lille,23,8/1/2012,542400,1376,36,Inlagd Sill,15.2,30,17,Svensk Sjöföda AB,Michael Björn,08-123 45 67
+23,Martine-Rancé,Lille,23,8/1/2012,542400,1376,43,Ipoh Coffee,36.8,25,20,Leka Trading,Chandra Leka,555-8787
+24,Maria-Larsson,Bräcke,24,8/1/2012,542401,48,33,Geitost,2,24,15,Norske Meierier,Beate Vileid,(0)2-953010
+25,Peter-Franken,München,25,8/2/2012,542402,1456,20,Sir Rodney's Marmalade,64.8,6,8,Specialty Biscuits Ltd.,Peter Wilson,(161) 555-4448
+25,Peter-Franken,München,25,8/2/2012,542402,1456,31,Gorgonzola Telino,10,40,14,Formaggi Fortini s.r.l.,Elio Rossi,(0544) 60323
+25,Peter-Franken,München,25,8/2/2012,542402,1456,72,Mozzarella di Giovanni,27.8,24,14,Formaggi Fortini s.r.l.,Elio Rossi,(0544) 60323
+26,Carine-Schmitt,Nantes,26,8/5/2012,542403,2142.4,10,Ikura,24.8,24,4,Tokyo Traders,Yoshi Nagase,(03) 3555-5011
+26,Carine-Schmitt,Nantes,26,8/5/2012,542403,2142.4,31,Gorgonzola Telino,10,15,14,Formaggi Fortini s.r.l.,Elio Rossi,(0544) 60323
+26,Carine-Schmitt,Nantes,26,8/5/2012,542403,2142.4,33,Geitost,2,20,15,Norske Meierier,Beate Vileid,(0)2-953010
+26,Carine-Schmitt,Nantes,26,8/5/2012,542403,2142.4,40,Boston Crab Meat,14.7,60,19,New England Seafood Cannery,Robb Merchant,(617) 555-3267
+26,Carine-Schmitt,Nantes,26,8/5/2012,542403,2142.4,76,Lakkalikööri,14.4,33,23,Karkki Oy,Anne Heikkonen,(953) 10956
+27,Paolo-Accorti,Torino,27,8/6/2012,542404,538.6,71,Flotemysost,17.2,20,15,Norske Meierier,Beate Vileid,(0)2-953010
+27,Paolo-Accorti,Torino,27,8/6/2012,542404,538.6,72,Mozzarella di Giovanni,27.8,7,14,Formaggi Fortini s.r.l.,Elio Rossi,(0544) 60323
+28,Lino-Rodriguez,Lisboa,28,8/7/2012,542405,307.2,24,Guaraná Fantástica,3.6,12,10,Refrescos Americanas LTDA,Carlos Diaz,(11) 555 4640
+28,Lino-Rodriguez,Lisboa,28,8/7/2012,542405,307.2,59,Raclette Courdavault,44,6,28,Gai pâturage,Eliane Noz,38.76.98.06
+29,Eduardo-Saavedra,Barcelona,29,8/8/2012,542406,420,10,Ikura,24.8,15,4,Tokyo Traders,Yoshi Nagase,(03) 3555-5011
+29,Eduardo-Saavedra,Barcelona,29,8/8/2012,542406,420,13,Konbu,4.8,10,6,Mayumi's,Mayumi Ohno,(06) 431-7877
+30,José-Pedro Freyre,Sevilla,30,8/9/2012,542407,1200.8,28,Rössle Sauerkraut,36.4,20,12,Plutzer Lebensmittelgroßmärkte AG,Martin Bein,(069) 992755
+30,José-Pedro Freyre,Sevilla,30,8/9/2012,542407,1200.8,62,Tarte au sucre,39.4,12,29,Forêts d'érables,Chantal Goulet,(514) 555-2955
+31,André-Fonseca,Campinas,31,8/12/2012,542408,1488.8,44,Gula Malacca,15.5,16,20,Leka Trading,Chandra Leka,555-8787
+31,André-Fonseca,Campinas,31,8/12/2012,542408,1488.8,59,Raclette Courdavault,44,15,28,Gai pâturage,Eliane Noz,38.76.98.06
+31,André-Fonseca,Campinas,31,8/12/2012,542408,1488.8,63,Vegie-spread,35.1,8,7,Pavlova Ltd.,Ian Devling,(03) 444-2343
+31,André-Fonseca,Campinas,31,8/12/2012,542408,1488.8,73,Röd Kaviar,12,25,17,Svensk Sjöföda AB,Michael Björn,08-123 45 67
+32,Howard-Snyder,Eugene,32,8/13/2012,542409,468,17,Alice Mutton,31.2,15,7,Pavlova Ltd.,Ian Devling,(03) 444-2343
+33,Manuel-Pereira,Caracas,33,8/14/2012,542410,613.2,24,Guaraná Fantástica,3.6,12,10,Refrescos Americanas LTDA,Carlos Diaz,(11) 555 4640
+33,Manuel-Pereira,Caracas,33,8/14/2012,542410,613.2,55,Pâté chinois,19.2,20,25,Ma Maison,Jean-Guy Lauzon,(514) 555-9022
+33,Manuel-Pereira,Caracas,33,8/14/2012,542410,613.2,75,Rhönbräu Klosterbier,6.2,30,12,Plutzer Lebensmittelgroßmärkte AG,Martin Bein,(069) 992755
+34,Mario-Pontes,Rio de Janeiro,34,8/14/2012,542411,86.5,19,Teatime Chocolate Biscuits,7.3,1,8,Specialty Biscuits Ltd.,Peter Wilson,(161) 555-4448
+34,Mario-Pontes,Rio de Janeiro,34,8/14/2012,542411,86.5,24,Guaraná Fantástica,3.6,6,10,Refrescos Americanas LTDA,Carlos Diaz,(11) 555 4640
+34,Mario-Pontes,Rio de Janeiro,34,8/14/2012,542411,86.5,35,Steeleye Stout,14.4,4,16,Bigfoot Breweries,Cheryl Saylor,(503) 555-9931
+35,Carlos-Hernández,San Cristóbal,35,8/15/2012,542412,155.4,30,Nord-Ost Matjeshering,20.7,6,13,Nord-Ost-Fisch Handelsgesellschaft mbH,Sven Petersen,(04721) 8713
+35,Carlos-Hernández,San Cristóbal,35,8/15/2012,542412,155.4,57,Ravioli Angelo,15.6,2,26,Pasta Buttini s.r.l.,Giovanni Giudici,(089) 6547665
+36,Yoshi-Latimer,Elgin,36,8/16/2012,542413,1414.8,15,Genen Shouyu,12.4,20,6,Mayumi's,Mayumi Ohno,(06) 431-7877
+36,Yoshi-Latimer,Elgin,36,8/16/2012,542413,1414.8,19,Teatime Chocolate Biscuits,7.3,18,8,Specialty Biscuits Ltd.,Peter Wilson,(161) 555-4448
+36,Yoshi-Latimer,Elgin,36,8/16/2012,542413,1414.8,60,Camembert Pierrot,27.2,35,28,Gai pâturage,Eliane Noz,38.76.98.06
+36,Yoshi-Latimer,Elgin,36,8/16/2012,542413,1414.8,72,Mozzarella di Giovanni,27.8,3,14,Formaggi Fortini s.r.l.,Elio Rossi,(0544) 60323
+37,Patricia-McKenna,Cork,37,8/19/2012,542414,1452,27,Schoggi Schokolade,35.1,15,11,Heli Süßwaren GmbH & Co. KG,Petra Winkler,(010) 9984510
+37,Patricia-McKenna,Cork,37,8/19/2012,542414,1452,44,Gula Malacca,15.5,21,20,Leka Trading,Chandra Leka,555-8787
+37,Patricia-McKenna,Cork,37,8/19/2012,542414,1452,60,Camembert Pierrot,27.2,20,28,Gai pâturage,Eliane Noz,38.76.98.06
+37,Patricia-McKenna,Cork,37,8/19/2012,542414,1452,67,Laughing Lumberjack Lager,11.2,5,16,Bigfoot Breweries,Cheryl Saylor,(503) 555-9931
+38,Helen-Bennett,Cowes,38,8/20/2012,542415,2179.2,1,Chai,14.4,45,1,Exotic Liquids,Charlotte Cooper,(171) 555-2222
+38,Helen-Bennett,Cowes,38,8/20/2012,542415,2179.2,40,Boston Crab Meat,14.7,40,19,New England Seafood Cannery,Robb Merchant,(617) 555-3267
+38,Helen-Bennett,Cowes,38,8/20/2012,542415,2179.2,53,Perth Pasties,26.2,36,24,G'day Mate,Wendy Mackenzie,(02) 555-5914
+39,Philip-Cramer,Brandenburg,39,8/21/2012,542416,3016,35,Steeleye Stout,14.4,100,16,Bigfoot Breweries,Cheryl Saylor,(503) 555-9931
+39,Philip-Cramer,Brandenburg,39,8/21/2012,542416,3016,62,Tarte au sucre,39.4,40,29,Forêts d'érables,Chantal Goulet,(514) 555-2955
+40,Daniel-Tonini,Versailles,40,8/22/2012,542417,924,16,Pavlova,13.9,40,7,Pavlova Ltd.,Ian Devling,(03) 444-2343
+40,Daniel-Tonini,Versailles,40,8/22/2012,542417,924,34,Sasquatch Ale,11.2,20,16,Bigfoot Breweries,Cheryl Saylor,(503) 555-9931
+40,Daniel-Tonini,Versailles,40,8/22/2012,542417,924,46,Spegesild,9.6,15,21,Lyngbysild,Niels Petersen,43844108
+41,Annette-Roulet,Toulouse,41,8/23/2012,542418,89,54,Tourtière,5.9,10,25,Ma Maison,Jean-Guy Lauzon,(514) 555-9022
+41,Annette-Roulet,Toulouse,41,8/23/2012,542418,89,68,Scottish Longbreads,10,3,8,Specialty Biscuits Ltd.,Peter Wilson,(161) 555-4448
+42,Yoshi-Tannamuri,Vancouver,42,8/26/2012,542419,479.4,3,Aniseed Syrup,8,30,1,Exotic Liquids,Charlotte Cooper,(171) 555-2222
+42,Yoshi-Tannamuri,Vancouver,42,8/26/2012,542419,479.4,64,Wimmers gute Semmelknödel,26.6,9,12,Plutzer Lebensmittelgroßmärkte AG,Martin Bein,(069) 992755
+43,John-Steel,Walla Walla,43,8/27/2012,542420,2169,5,Chef Anton's Gumbo Mix,17,20,2,New Orleans Cajun Delights,Shelley Burke,(100) 555-4822
+43,John-Steel,Walla Walla,43,8/27/2012,542420,2169,29,Thüringer Rostbratwurst,99,15,12,Plutzer Lebensmittelgroßmärkte AG,Martin Bein,(069) 992755
+43,John-Steel,Walla Walla,43,8/27/2012,542420,2169,49,Maxilaku,16,15,23,Karkki Oy,Anne Heikkonen,(953) 10956
+43,John-Steel,Walla Walla,43,8/27/2012,542420,2169,77,Original Frankfurter grüne Soße,10.4,10,12,Plutzer Lebensmittelgroßmärkte AG,Martin Bein,(069) 992755
+44,Renate-Messner,Frankfurt a.M.,44,8/27/2012,542421,552.8,13,Konbu,4.8,20,6,Mayumi's,Mayumi Ohno,(06) 431-7877
+44,Renate-Messner,Frankfurt a.M.,44,8/27/2012,542421,552.8,44,Gula Malacca,15.5,24,20,Leka Trading,Chandra Leka,555-8787
+44,Renate-Messner,Frankfurt a.M.,44,8/27/2012,542421,552.8,51,Manjimup Dried Apples,42.4,2,24,G'day Mate,Wendy Mackenzie,(02) 555-5914
+45,Jaime-Yorres,San Francisco,45,8/28/2012,542422,1296,20,Sir Rodney's Marmalade,64.8,20,8,Specialty Biscuits Ltd.,Peter Wilson,(161) 555-4448
+46,Carlos-González,Barquisimeto,46,8/29/2012,542423,848.7,18,Carnarvon Tigers,50,12,7,Pavlova Ltd.,Ian Devling,(03) 444-2343
+46,Carlos-González,Barquisimeto,46,8/29/2012,542423,848.7,24,Guaraná Fantástica,3.6,10,10,Refrescos Americanas LTDA,Carlos Diaz,(11) 555 4640
+46,Carlos-González,Barquisimeto,46,8/29/2012,542423,848.7,63,Vegie-spread,35.1,5,7,Pavlova Ltd.,Ian Devling,(03) 444-2343
+46,Carlos-González,Barquisimeto,46,8/29/2012,542423,848.7,75,Rhönbräu Klosterbier,6.2,6,12,Plutzer Lebensmittelgroßmärkte AG,Martin Bein,(069) 992755
+47,Felipe-Izquierdo,I. de Margarita,47,8/30/2012,542424,1887.6,1,Chai,14.4,18,1,Exotic Liquids,Charlotte Cooper,(171) 555-2222
+47,Felipe-Izquierdo,I. de Margarita,47,8/30/2012,542424,1887.6,17,Alice Mutton,31.2,15,7,Pavlova Ltd.,Ian Devling,(03) 444-2343
+47,Felipe-Izquierdo,I. de Margarita,47,8/30/2012,542424,1887.6,43,Ipoh Coffee,36.8,15,20,Leka Trading,Chandra Leka,555-8787
+47,Felipe-Izquierdo,I. de Margarita,47,8/30/2012,542424,1887.6,60,Camembert Pierrot,27.2,21,28,Gai pâturage,Eliane Noz,38.76.98.06
+47,Felipe-Izquierdo,I. de Margarita,47,8/30/2012,542424,1887.6,75,Rhönbräu Klosterbier,6.2,6,12,Plutzer Lebensmittelgroßmärkte AG,Martin Bein,(069) 992755
+48,Fran-Wilson,Portland,48,9/2/2012,542425,121.6,56,Gnocchi di nonna Alice,30.4,4,26,Pasta Buttini s.r.l.,Giovanni Giudici,(089) 6547665
+49,Giovanni-Rovelli,Bergamo,49,9/3/2012,542426,1050.6,11,Queso Cabrales,16.8,12,5,Cooperativa de Quesos 'Las Cabras',Antonio del Valle Saavedra,(98) 598 76 54
+49,Giovanni-Rovelli,Bergamo,49,9/3/2012,542426,1050.6,16,Pavlova,13.9,30,7,Pavlova Ltd.,Ian Devling,(03) 444-2343
+49,Giovanni-Rovelli,Bergamo,49,9/3/2012,542426,1050.6,69,Gudbrandsdalsost,28.8,15,15,Norske Meierier,Beate Vileid,(0)2-953010
+50,Catherine-Dewey,Bruxelles,50,9/4/2012,542427,1420,39,Chartreuse verte,14.4,60,18,Aux joyeux ecclésiastiques,Guylène Nodier,(1) 03.83.00.68
+51,Jean-Fresnière,Montréal,51,9/5/2012,542428,3127,2,Chang,15.2,40,1,Exotic Liquids,Charlotte Cooper,(171) 555-2222
+51,Jean-Fresnière,Montréal,51,9/5/2012,542428,3127,36,Inlagd Sill,15.2,40,17,Svensk Sjöföda AB,Michael Björn,08-123 45 67
+51,Jean-Fresnière,Montréal,51,9/5/2012,542428,3127,59,Raclette Courdavault,44,30,28,Gai pâturage,Eliane Noz,38.76.98.06
+51,Jean-Fresnière,Montréal,51,9/5/2012,542428,3127,62,Tarte au sucre,39.4,15,29,Forêts d'érables,Chantal Goulet,(514) 555-2955
+52,Alexander-Feuer,Leipzig,52,9/6/2012,542429,349.5,19,Teatime Chocolate Biscuits,7.3,15,8,Specialty Biscuits Ltd.,Peter Wilson,(161) 555-4448
+52,Alexander-Feuer,Leipzig,52,9/6/2012,542429,349.5,70,Outback Lager,12,20,7,Pavlova Ltd.,Ian Devling,(03) 444-2343
+53,Simon-Crowther,London,53,9/9/2012,542430,608,66,Louisiana Hot Spiced Okra,13.6,30,2,New Orleans Cajun Delights,Shelley Burke,(100) 555-4822
+53,Simon-Crowther,London,53,9/9/2012,542430,608,68,Scottish Longbreads,10,20,8,Specialty Biscuits Ltd.,Peter Wilson,(161) 555-4448
+54,Yvonne-Moncada,Buenos Aires,54,9/9/2012,542431,755,40,Boston Crab Meat,14.7,10,19,New England Seafood Cannery,Robb Merchant,(617) 555-3267
+54,Yvonne-Moncada,Buenos Aires,54,9/9/2012,542431,755,56,Gnocchi di nonna Alice,30.4,20,26,Pasta Buttini s.r.l.,Giovanni Giudici,(089) 6547665
+55,Rene-Phillips,Anchorage,55,9/10/2012,542432,2708.8,17,Alice Mutton,31.2,40,7,Pavlova Ltd.,Ian Devling,(03) 444-2343
+55,Rene-Phillips,Anchorage,55,9/10/2012,542432,2708.8,28,Rössle Sauerkraut,36.4,28,12,Plutzer Lebensmittelgroßmärkte AG,Martin Bein,(069) 992755
+55,Rene-Phillips,Anchorage,55,9/10/2012,542432,2708.8,43,Ipoh Coffee,36.8,12,20,Leka Trading,Chandra Leka,555-8787
+56,Henriette-Pfalzheim,Köln,56,9/11/2012,542433,1242,40,Boston Crab Meat,14.7,40,19,New England Seafood Cannery,Robb Merchant,(617) 555-3267
+56,Henriette-Pfalzheim,Köln,56,9/11/2012,542433,1242,65,Louisiana Fiery Hot Pepper Sauce,16.8,30,2,New Orleans Cajun Delights,Shelley Burke,(100) 555-4822
+56,Henriette-Pfalzheim,Köln,56,9/11/2012,542433,1242,68,Scottish Longbreads,10,15,8,Specialty Biscuits Ltd.,Peter Wilson,(161) 555-4448
+57,Marie-Bertrand,Paris,57,9/12/2012,542434,954.4,49,Maxilaku,16,30,23,Karkki Oy,Anne Heikkonen,(953) 10956
+57,Marie-Bertrand,Paris,57,9/12/2012,542434,954.4,59,Raclette Courdavault,44,10,28,Gai pâturage,Eliane Noz,38.76.98.06
+57,Marie-Bertrand,Paris,57,9/12/2012,542434,954.4,71,Flotemysost,17.2,2,15,Norske Meierier,Beate Vileid,(0)2-953010
+58,Guillermo-Fernández,México D.F.,58,9/13/2012,542435,4157,18,Carnarvon Tigers,50,25,7,Pavlova Ltd.,Ian Devling,(03) 444-2343
+58,Guillermo-Fernández,México D.F.,58,9/13/2012,542435,4157,29,Thüringer Rostbratwurst,99,25,12,Plutzer Lebensmittelgroßmärkte AG,Martin Bein,(069) 992755
+58,Guillermo-Fernández,México D.F.,58,9/13/2012,542435,4157,39,Chartreuse verte,14.4,30,18,Aux joyeux ecclésiastiques,Guylène Nodier,(1) 03.83.00.68
+59,Georg-Pipps,Salzburg,59,9/16/2012,542436,498.5,30,Nord-Ost Matjeshering,20.7,10,13,Nord-Ost-Fisch Handelsgesellschaft mbH,Sven Petersen,(04721) 8713
+59,Georg-Pipps,Salzburg,59,9/16/2012,542436,498.5,53,Perth Pasties,26.2,10,24,G'day Mate,Wendy Mackenzie,(02) 555-5914
+59,Georg-Pipps,Salzburg,59,9/16/2012,542436,498.5,54,Tourtière,5.9,5,25,Ma Maison,Jean-Guy Lauzon,(514) 555-9022
+60,Isabel-de Castro,Lisboa,60,9/17/2012,542437,424,62,Tarte au sucre,39.4,10,29,Forêts d'érables,Chantal Goulet,(514) 555-2955
+60,Isabel-de Castro,Lisboa,60,9/17/2012,542437,424,68,Scottish Longbreads,10,3,8,Specialty Biscuits Ltd.,Peter Wilson,(161) 555-4448
+61,Bernardo-Batista,Rio de Janeiro,61,9/18/2012,542438,88.8,69,Gudbrandsdalsost,28.8,1,15,Norske Meierier,Beate Vileid,(0)2-953010
+61,Bernardo-Batista,Rio de Janeiro,61,9/18/2012,542438,88.8,70,Outback Lager,12,5,7,Pavlova Ltd.,Ian Devling,(03) 444-2343
+62,Lúcia-Carvalho,Sao Paulo,62,9/19/2012,542439,1762,4,Chef Anton's Cajun Seasoning,17.6,20,2,New Orleans Cajun Delights,Shelley Burke,(100) 555-4822
+62,Lúcia-Carvalho,Sao Paulo,62,9/19/2012,542439,1762,6,Grandma's Boysenberry Spread,20,30,3,Grandma Kelly's Homestead,Regina Murphy,(313) 555-5735
+62,Lúcia-Carvalho,Sao Paulo,62,9/19/2012,542439,1762,42,Singaporean Hokkien Fried Mee,11.2,2,20,Leka Trading,Chandra Leka,555-8787
+62,Lúcia-Carvalho,Sao Paulo,62,9/19/2012,542439,1762,43,Ipoh Coffee,36.8,20,20,Leka Trading,Chandra Leka,555-8787
+62,Lúcia-Carvalho,Sao Paulo,62,9/19/2012,542439,1762,71,Flotemysost,17.2,3,15,Norske Meierier,Beate Vileid,(0)2-953010
+63,Horst-Kloss,Cunewalde,63,9/20/2012,542440,336,16,Pavlova,13.9,10,7,Pavlova Ltd.,Ian Devling,(03) 444-2343
+63,Horst-Kloss,Cunewalde,63,9/20/2012,542440,336,62,Tarte au sucre,39.4,5,29,Forêts d'érables,Chantal Goulet,(514) 555-2955
+64,Sergio-Gutiérrez,Buenos Aires,64,9/20/2012,542441,268.8,42,Singaporean Hokkien Fried Mee,11.2,6,20,Leka Trading,Chandra Leka,555-8787
+64,Sergio-Gutiérrez,Buenos Aires,64,9/20/2012,542441,268.8,69,Gudbrandsdalsost,28.8,7,15,Norske Meierier,Beate Vileid,(0)2-953010
+65,Paula-Wilson,Albuquerque,65,9/23/2012,542442,1614.8,28,Rössle Sauerkraut,36.4,4,12,Plutzer Lebensmittelgroßmärkte AG,Martin Bein,(069) 992755
+65,Paula-Wilson,Albuquerque,65,9/23/2012,542442,1614.8,43,Ipoh Coffee,36.8,24,20,Leka Trading,Chandra Leka,555-8787
+65,Paula-Wilson,Albuquerque,65,9/23/2012,542442,1614.8,53,Perth Pasties,26.2,20,24,G'day Mate,Wendy Mackenzie,(02) 555-5914
+65,Paula-Wilson,Albuquerque,65,9/23/2012,542442,1614.8,75,Rhönbräu Klosterbier,6.2,10,12,Plutzer Lebensmittelgroßmärkte AG,Martin Bein,(069) 992755
+66,Maurizio-Moroni,Reggio Emilia,66,9/24/2012,542443,182.4,36,Inlagd Sill,15.2,12,17,Svensk Sjöföda AB,Michael Björn,08-123 45 67
+67,Janete-Limeira,Rio de Janeiro,67,9/25/2012,542444,2327,32,Mascarpone Fabioli,25.6,40,14,Formaggi Fortini s.r.l.,Elio Rossi,(0544) 60323
+67,Janete-Limeira,Rio de Janeiro,67,9/25/2012,542444,2327,58,Escargots de Bourgogne,10.6,30,27,Escargots Nouveaux,Marie Delamare,85.57.00.07
+67,Janete-Limeira,Rio de Janeiro,67,9/25/2012,542444,2327,62,Tarte au sucre,39.4,25,29,Forêts d'érables,Chantal Goulet,(514) 555-2955
+68,Michael-Holz,Genève,68,9/26/2012,542445,516.8,34,Sasquatch Ale,11.2,14,16,Bigfoot Breweries,Cheryl Saylor,(503) 555-9931
+68,Michael-Holz,Genève,68,9/26/2012,542445,516.8,70,Outback Lager,12,30,7,Pavlova Ltd.,Ian Devling,(03) 444-2343
+69,Alejandra-Camino,Madrid,69,9/27/2012,542446,2835,41,Jack's New England Clam Chowder,7.7,10,19,New England Seafood Cannery,Robb Merchant,(617) 555-3267
+69,Alejandra-Camino,Madrid,69,9/27/2012,542446,2835,62,Tarte au sucre,39.4,70,29,Forêts d'érables,Chantal Goulet,(514) 555-2955
+70,Jonas-Bergulfsen,Stavern,70,9/30/2012,542447,288,1,Chai,14.4,20,1,Exotic Liquids,Charlotte Cooper,(171) 555-2222
+71,Jose-Pavarotti,Boise,71,10/1/2012,542448,240.4,41,Jack's New England Clam Chowder,7.7,20,19,New England Seafood Cannery,Robb Merchant,(617) 555-3267
+71,Jose-Pavarotti,Boise,71,10/1/2012,542448,240.4,76,Lakkalikööri,14.4,6,23,Karkki Oy,Anne Heikkonen,(953) 10956
+72,Hari-Kumar,London,72,10/2/2012,542449,1191.2,17,Alice Mutton,31.2,8,7,Pavlova Ltd.,Ian Devling,(03) 444-2343
+72,Hari-Kumar,London,72,10/2/2012,542449,1191.2,28,Rössle Sauerkraut,36.4,14,12,Plutzer Lebensmittelgroßmärkte AG,Martin Bein,(069) 992755
+72,Hari-Kumar,London,72,10/2/2012,542449,1191.2,76,Lakkalikööri,14.4,30,23,Karkki Oy,Anne Heikkonen,(953) 10956
+73,Jytte-Petersen,Kobenhavn,73,10/3/2012,542450,516,71,Flotemysost,17.2,30,15,Norske Meierier,Beate Vileid,(0)2-953010
+74,Dominique-Perrier,Paris,74,10/3/2012,542451,144,35,Steeleye Stout,14.4,10,16,Bigfoot Breweries,Cheryl Saylor,(503) 555-9931
+75,Art-Braunschweiger,Lander,75,10/4/2012,542452,112,52,Filo Mix,5.6,20,24,G'day Mate,Wendy Mackenzie,(02) 555-5914
+76,Pascale-Cartrain,Charleroi,76,10/7/2012,542453,164.4,15,Genen Shouyu,12.4,5,6,Mayumi's,Mayumi Ohno,(06) 431-7877
+76,Pascale-Cartrain,Charleroi,76,10/7/2012,542453,164.4,25,NuNuCa Nuß-Nougat-Creme,11.2,4,11,Heli Süßwaren GmbH & Co. KG,Petra Winkler,(010) 9984510
+76,Pascale-Cartrain,Charleroi,76,10/7/2012,542453,164.4,39,Chartreuse verte,14.4,4,18,Aux joyeux ecclésiastiques,Guylène Nodier,(1) 03.83.00.68
+77,Liz-Nixon,Portland,77,10/8/2012,542454,6155.9,16,Pavlova,13.9,21,7,Pavlova Ltd.,Ian Devling,(03) 444-2343
+77,Liz-Nixon,Portland,77,10/8/2012,542454,6155.9,35,Steeleye Stout,14.4,70,16,Bigfoot Breweries,Cheryl Saylor,(503) 555-9931
+77,Liz-Nixon,Portland,77,10/8/2012,542454,6155.9,46,Spegesild,9.6,30,21,Lyngbysild,Niels Petersen,43844108
+77,Liz-Nixon,Portland,77,10/8/2012,542454,6155.9,59,Raclette Courdavault,44,40,28,Gai pâturage,Eliane Noz,38.76.98.06
+77,Liz-Nixon,Portland,77,10/8/2012,542454,6155.9,63,Vegie-spread,35.1,80,7,Pavlova Ltd.,Ian Devling,(03) 444-2343
+78,Liu-Wong,Butte,78,10/9/2012,542455,1497,6,Grandma's Boysenberry Spread,20,6,3,Grandma Kelly's Homestead,Regina Murphy,(313) 555-5735
+78,Liu-Wong,Butte,78,10/9/2012,542455,1497,13,Konbu,4.8,12,6,Mayumi's,Mayumi Ohno,(06) 431-7877
+78,Liu-Wong,Butte,78,10/9/2012,542455,1497,14,Tofu,18.6,9,6,Mayumi's,Mayumi Ohno,(06) 431-7877
+78,Liu-Wong,Butte,78,10/9/2012,542455,1497,31,Gorgonzola Telino,10,4,14,Formaggi Fortini s.r.l.,Elio Rossi,(0544) 60323
+78,Liu-Wong,Butte,78,10/9/2012,542455,1497,72,Mozzarella di Giovanni,27.8,40,14,Formaggi Fortini s.r.l.,Elio Rossi,(0544) 60323
+79,Karin-Josephs,Münster,79,10/10/2012,542456,982,4,Chef Anton's Cajun Seasoning,17.6,24,2,New Orleans Cajun Delights,Shelley Burke,(100) 555-4822
+79,Karin-Josephs,Münster,79,10/10/2012,542456,982,57,Ravioli Angelo,15.6,16,26,Pasta Buttini s.r.l.,Giovanni Giudici,(089) 6547665
+79,Karin-Josephs,Münster,79,10/10/2012,542456,982,75,Rhönbräu Klosterbier,6.2,50,12,Plutzer Lebensmittelgroßmärkte AG,Martin Bein,(069) 992755
+80,Miguel-Angel Paolino,México D.F.,80,10/11/2012,542457,2262.5,2,Chang,15.2,25,1,Exotic Liquids,Charlotte Cooper,(171) 555-2222
+80,Miguel-Angel Paolino,México D.F.,80,10/11/2012,542457,2262.5,11,Queso Cabrales,16.8,50,5,Cooperativa de Quesos 'Las Cabras',Antonio del Valle Saavedra,(98) 598 76 54
+80,Miguel-Angel Paolino,México D.F.,80,10/11/2012,542457,2262.5,30,Nord-Ost Matjeshering,20.7,35,13,Nord-Ost-Fisch Handelsgesellschaft mbH,Sven Petersen,(04721) 8713
+80,Miguel-Angel Paolino,México D.F.,80,10/11/2012,542457,2262.5,58,Escargots de Bourgogne,10.6,30,27,Escargots Nouveaux,Marie Delamare,85.57.00.07
+81,Anabela-Domingues,Sao Paulo,81,10/14/2012,542458,1168,59,Raclette Courdavault,44,9,28,Gai pâturage,Eliane Noz,38.76.98.06
+81,Anabela-Domingues,Sao Paulo,81,10/14/2012,542458,1168,65,Louisiana Fiery Hot Pepper Sauce,16.8,40,2,New Orleans Cajun Delights,Shelley Burke,(100) 555-4822
+81,Anabela-Domingues,Sao Paulo,81,10/14/2012,542458,1168,68,Scottish Longbreads,10,10,8,Specialty Biscuits Ltd.,Peter Wilson,(161) 555-4448
+82,Helvetius-Nagy,Kirkland,82,10/15/2012,542459,4819.4,19,Teatime Chocolate Biscuits,7.3,10,8,Specialty Biscuits Ltd.,Peter Wilson,(161) 555-4448
+82,Helvetius-Nagy,Kirkland,82,10/15/2012,542459,4819.4,30,Nord-Ost Matjeshering,20.7,8,13,Nord-Ost-Fisch Handelsgesellschaft mbH,Sven Petersen,(04721) 8713
+82,Helvetius-Nagy,Kirkland,82,10/15/2012,542459,4819.4,38,Côte de Blaye,210.8,20,18,Aux joyeux ecclésiastiques,Guylène Nodier,(1) 03.83.00.68
+82,Helvetius-Nagy,Kirkland,82,10/15/2012,542459,4819.4,56,Gnocchi di nonna Alice,30.4,12,26,Pasta Buttini s.r.l.,Giovanni Giudici,(089) 6547665
+83,Palle-Ibsen,Århus,83,10/16/2012,542460,1940,26,Gumbär Gummibärchen,24.9,50,11,Heli Süßwaren GmbH & Co. KG,Petra Winkler,(010) 9984510
+83,Palle-Ibsen,Århus,83,10/16/2012,542460,1940,72,Mozzarella di Giovanni,27.8,25,14,Formaggi Fortini s.r.l.,Elio Rossi,(0544) 60323
+84,Mary-Saveley,Lyon,84,10/16/2012,542461,88.5,54,Tourtière,5.9,15,25,Ma Maison,Jean-Guy Lauzon,(514) 555-9022
+85,Paul-Henriot,Reims,85,10/17/2012,542462,2233.6,18,Carnarvon Tigers,50,40,7,Pavlova Ltd.,Ian Devling,(03) 444-2343
+85,Paul-Henriot,Reims,85,10/17/2012,542462,2233.6,42,Singaporean Hokkien Fried Mee,11.2,10,20,Leka Trading,Chandra Leka,555-8787
+85,Paul-Henriot,Reims,85,10/17/2012,542462,2233.6,47,Zaanse koeken,7.6,16,22,Zaanse Snoepfabriek,Dirk Luchte,(12345) 1212
+86,Rita-Müller,Stuttgart,86,10/18/2012,542463,954,14,Tofu,18.6,10,6,Mayumi's,Mayumi Ohno,(06) 431-7877
+86,Rita-Müller,Stuttgart,86,10/18/2012,542463,954,21,Sir Rodney's Scones,8,10,8,Specialty Biscuits Ltd.,Peter Wilson,(161) 555-4448
+86,Rita-Müller,Stuttgart,86,10/18/2012,542463,954,71,Flotemysost,17.2,40,15,Norske Meierier,Beate Vileid,(0)2-953010
+87,Pirkko-Koskitalo,Oulu,87,10/21/2012,542464,144.8,52,Filo Mix,5.6,8,24,G'day Mate,Wendy Mackenzie,(02) 555-5914
+87,Pirkko-Koskitalo,Oulu,87,10/21/2012,542464,144.8,68,Scottish Longbreads,10,10,8,Specialty Biscuits Ltd.,Peter Wilson,(161) 555-4448
+88,Paula-Parente,Resende,88,10/22/2012,542465,2545.2,2,Chang,15.2,7,1,Exotic Liquids,Charlotte Cooper,(171) 555-2222
+88,Paula-Parente,Resende,88,10/22/2012,542465,2545.2,31,Gorgonzola Telino,10,25,14,Formaggi Fortini s.r.l.,Elio Rossi,(0544) 60323
+88,Paula-Parente,Resende,88,10/22/2012,542465,2545.2,32,Mascarpone Fabioli,25.6,6,14,Formaggi Fortini s.r.l.,Elio Rossi,(0544) 60323
+88,Paula-Parente,Resende,88,10/22/2012,542465,2545.2,51,Manjimup Dried Apples,42.4,48,24,G'day Mate,Wendy Mackenzie,(02) 555-5914
+89,Karl-Jablonski,Seattle,89,10/23/2012,542466,316.8,4,Chef Anton's Cajun Seasoning,17.6,18,2,New Orleans Cajun Delights,Shelley Burke,(100) 555-4822
+90,Matti-Karttunen,Helsinki,90,10/24/2012,542467,2467,23,Tunnbröd,7.2,40,9,PB Knäckebröd AB,Lars Peterson,031-987 65 43
+90,Matti-Karttunen,Helsinki,90,10/24/2012,542467,2467,26,Gumbär Gummibärchen,24.9,24,11,Heli Süßwaren GmbH & Co. KG,Petra Winkler,(010) 9984510
+90,Matti-Karttunen,Helsinki,90,10/24/2012,542467,2467,36,Inlagd Sill,15.2,20,17,Svensk Sjöföda AB,Michael Björn,08-123 45 67
+90,Matti-Karttunen,Helsinki,90,10/24/2012,542467,2467,37,Gravad lax,20.8,28,17,Svensk Sjöföda AB,Michael Björn,08-123 45 67
+90,Matti-Karttunen,Helsinki,90,10/24/2012,542467,2467,72,Mozzarella di Giovanni,27.8,25,14,Formaggi Fortini s.r.l.,Elio Rossi,(0544) 60323
+91,Zbyszek-Piestrzeniewicz,Warszawa,91,10/25/2012,542468,934.5,17,Alice Mutton,31.2,20,7,Pavlova Ltd.,Ian Devling,(03) 444-2343
+91,Zbyszek-Piestrzeniewicz,Warszawa,91,10/25/2012,542468,934.5,30,Nord-Ost Matjeshering,20.7,15,13,Nord-Ost-Fisch Handelsgesellschaft mbH,Sven Petersen,(04721) 8713
