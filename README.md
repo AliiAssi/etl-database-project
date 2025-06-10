@@ -1,4 +1,4 @@
-# 📦 etl-database-project
+# 📦 ETL-project
 
 ## 📋 Project Overview
 
